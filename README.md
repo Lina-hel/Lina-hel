@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Lina-Helali&color=blue&style=flat-square)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Engineering+Student+@+ESPRIT;Passionate+about+Development+%26+Learning;Interested+in+Web,+Java+%26+UI%2FUX;Always+Improving+My+Skills..">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Engineering+Student+@+ESPRIT;Passionate+about+Development+%26+Cloud;Interested+in+Web,+Java+%26+UI%2FUX;Always+Improving+My+Skills..">
 </p>
 
 ---
